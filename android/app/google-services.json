@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698918366401",
+    "project_id": "chatapp-255d6",
+    "storage_bucket": "chatapp-255d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698918366401:android:19acd1ea4ce11b29073840",
+        "android_client_info": {
+          "package_name": "com.dymmyapps.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBjMHrra7a4Q-owXZjqYH-oFaL7_C9JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
